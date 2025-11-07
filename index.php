@@ -22,6 +22,7 @@ while (true)
             break;
         case 2:
             echo "Результат сложения: {$num1 + $num2}\n";
+            break;
         case 3:
         case 4:
         case 5:
