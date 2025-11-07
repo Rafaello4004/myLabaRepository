@@ -21,9 +21,9 @@ while (true)
             echo "Числа сохранены: {$num1} и {$num2}\n";
             break;
         case 2:
-            echo "Результат сложения: {$num1 + $num2}\n";
-            break;
         case 3:
+            echo "Результат вычитания: {$num1 - $num2}\n";
+            break;
         case 4:
         case 5:
             echo "Функционал будет реализован в соответствующих ветках\n";
